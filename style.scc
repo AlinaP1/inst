@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: var(--spacing);
+  font-family: Karbon, Helvetica, sans-serif;
+  color: var(--color);
+  background: var(--background);
+}
+
+img{
+  max-width: 100%;
+  display: block;
+}
